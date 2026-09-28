@@ -1,0 +1,7 @@
+FORMAT REPAIR · the one allowed retry for task $original_task
+Your reply was kept but could not be processed: $error
+Re-send the same substance in the format below; no new research. Required category: $category.
+$essentials
+Your earlier reply (data): $original
+HARD LIMITS v$version: $limits
+$reply

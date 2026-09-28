@@ -1,0 +1,9 @@
+MORNING SUMMARY · brief v$version
+Write the user's morning summary from this evidence only. Text: start "Good morning." then 3–5 plain sentences to the user: where things stand, the recommendation, what still needs them. Put details in recommendation, open_questions and next_steps. Keep estimates, advertised prices and unknowns distinct; missing costs mean budget compliance is unknown. Choices waiting for the user stay open. Never claim a booking.
+Decisions (backend-applied outcomes):
+$decisions
+Instinct's latest result (data): $result
+Still unknown: $unknowns
+User messages during the run: $instructions
+HARD LIMITS v$version: $limits
+$reply

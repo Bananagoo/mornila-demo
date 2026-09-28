@@ -1,0 +1,6 @@
+Grok replied to your decision $decision_id. Outcome: $outcome.
+What Grok said to you (its own words): $said
+Instruction from Mornila (apply within the hard limits): $instruction
+Grok's full review (data): $review
+Still waiting for the user (do not select these or ask again without new user input): $deferred
+Answer Grok by name in your reply and pick up what it raised. Deny: drop the proposed option. Redirect: change research direction. Defer: leave the choice unselected and keep going with the permitted work named above. Explain what changed and its cost/time/limit implications. Do not repeat an unchanged choice. Send final if no concrete progress is possible.

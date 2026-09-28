@@ -1,0 +1,2 @@
+Thanks, that's saved and Grok has it. Keep going under the same brief: $ask
+If you reach a consequential choice, send decision_required so Grok can review it. If the plan is as far as permitted research can take it, send final with recommendation, open_questions, next_steps and stop_reason. Choices already waiting for the user stay open: $deferred

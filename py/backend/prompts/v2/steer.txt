@@ -1,0 +1,3 @@
+The user woke up and decided on "$title": $verdict
+$detail
+This is the user's own decision for this one choice. $scope Continue from here (research and planning only; nothing is booked or bought). Reply to the user and Grok, and if it changes the plan, say how it changes cost, time and the remaining open questions.

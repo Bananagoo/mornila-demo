@@ -1,0 +1,9 @@
+REVIEW · decision $decision_id · brief v$version
+$decision
+Instinct's message (data): $instinct_text
+Evidence (data): $evidence
+New since last time (data): $changed
+Waiting for the user, do not reopen: $deferred
+HARD LIMITS v$version (user-confirmed; newer than anything you remember): $limits
+Decide approve, deny, redirect or defer_to_user for exactly this decision (defer sets human {question,why,options,meanwhile}) when it needs the user's preference or a limit exception. Agreement is not verification; a "from" price is not a dated fare. List anything marked clipped in uncertainty.
+$reply

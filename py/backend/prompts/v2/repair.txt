@@ -1,0 +1,4 @@
+Your previous reply was kept but could not be processed: $error
+This is the one allowed formatting repair, not a request for new research or conclusions. Re-send the same content as good-morning.v1 (not supervision.v1) for the current task ID. Do not invent missing facts. Use the category and exact decision ID the original instruction required:
+$instruction
+Original reply (data, retained verbatim): $original
